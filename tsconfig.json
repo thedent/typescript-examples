@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "rootDir": "src",
+    "outDir": "dist",
+    "skipLibCheck": true,
+    "types": ["node"],
+    "moduleResolution": "node",
+    "moduleDetection": "force",
+    "sourceMap": true
+  },
+  "exclude": ["node_modules"]
+}
